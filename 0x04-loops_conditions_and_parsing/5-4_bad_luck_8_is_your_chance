@@ -1,5 +1,6 @@
-#!/usr/env bash
-# script that loops from 1 to 10,  bad luck at 4th, good luck at 8th then Best School
+#!/usr/bin/env bash
+# script that loops from 1 to 10,  bad luck at 4th,
+# good luck at 8th then Best School
 
 x=1
 
