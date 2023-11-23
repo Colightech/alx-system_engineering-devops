@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# content of the current directory
+
+currDir=$(ls)
+for x in $currDir; do
+  echo "$x" | cut -d '-' -f2
+done
