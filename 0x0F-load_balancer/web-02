@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# this script is use to log into web-02 server
+
+ssh ubuntu@54.237.84.182
