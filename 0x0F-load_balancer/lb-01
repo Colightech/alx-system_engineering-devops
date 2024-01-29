@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# this script is use to log into lb-01
+
+ssh ubuntu@18.214.87.67
